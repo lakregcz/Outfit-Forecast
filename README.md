@@ -19,12 +19,6 @@ Outfit Forecast is a desktop weather app built with [Flet](https://flet.dev/) th
 
 ---
 
-## Screenshots
-
-![App Preview](https://lakiup.com/wp-content/uploads/2025/07/OutfitForecast.png)
-
----
-
 ## Installation & Setup
 
 1. **Clone the repository:**
